@@ -1,0 +1,2 @@
+nohup python generateEpisodesToPreTraining.py &
+

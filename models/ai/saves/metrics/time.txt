@@ -1,0 +1,52 @@
+Epoch 0, Episode 0, Steps: 239
+get_step_time: 27.856205940246582
+get_input_time: 1.0877254009246826
+zero_grad_time: 0.000469207763671875
+forward_time: 4.544031381607056
+get_target_time: 3.3622539043426514
+convert_platform_time: 0.03840279579162598
+loss_time: 0.6754097938537598
+backpropagation_time: 15.929066896438599
+update_time: 0.18658447265625
+hidden_state_time: 0.06148409843444824
+episode time: 53.741633892059326
+
+Epoch 1, Episode 0, Steps: 239
+get_step_time: 30.843855381011963
+get_input_time: 1.4017982482910156
+zero_grad_time: 0.0007107257843017578
+forward_time: 6.60857367515564
+get_target_time: 2.050934076309204
+convert_platform_time: 0.05434989929199219
+loss_time: 0.9853701591491699
+backpropagation_time: 19.489256143569946
+update_time: 0.2465193271636963
+hidden_state_time: 0.08643078804016113
+episode time: 61.76779842376709
+
+Epoch 2, Episode 0, Steps: 239
+get_step_time: 30.67565107345581
+get_input_time: 1.393261194229126
+zero_grad_time: 0.0006167888641357422
+forward_time: 6.589704990386963
+get_target_time: 2.0393147468566895
+convert_platform_time: 0.051297664642333984
+loss_time: 0.972222089767456
+backpropagation_time: 19.28661847114563
+update_time: 0.2479841709136963
+hidden_state_time: 0.08392477035522461
+episode time: 61.340595960617065
+
+Epoch 3, Episode 0, Steps: 239
+get_step_time: 31.10950803756714
+get_input_time: 1.4157333374023438
+zero_grad_time: 0.0005850791931152344
+forward_time: 6.735949516296387
+get_target_time: 2.0414397716522217
+convert_platform_time: 0.0541379451751709
+loss_time: 0.9836854934692383
+backpropagation_time: 19.581629276275635
+update_time: 0.2556009292602539
+hidden_state_time: 0.08915209770202637
+episode time: 62.26742148399353
+
